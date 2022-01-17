@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/.DS_Store
+data/ACLU data/contacts.csv
+data/ACLU data/Data Dictionary.xlsx
+data/ACLU data/Data Scientist - Marketing Exam.docx
+data/ACLU data/data.zip
+data/ACLU data/email_clicked.csv
+data/ACLU data/email_opened.csv
+data/ACLU data/email_received.csv
+.DS_Store
